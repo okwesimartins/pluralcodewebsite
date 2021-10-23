@@ -631,7 +631,7 @@ src="https://www.facebook.com/tr?id=145075080864752&ev=PageView&noscript=1"
                               </li>
 
                               <li class="">
-                                  <a href="contact.php"><span class="menu-text">Contact Us</span></a>
+                                  <a href="contact.php"><span class="menu-text">Contact Us .</span></a>
 
                               </li>
                             </ul>
